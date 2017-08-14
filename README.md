@@ -1,0 +1,2 @@
+# risitek
+personal study
